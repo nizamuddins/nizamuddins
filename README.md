@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
+<h1 align="center" style = "background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1qVE32snPvXPaI9qUgq2MV2fT6F4bfsdyQg&usqp=CAU')">Hi 👋, I'm Mohd Nizam Uddin</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nizamuddins" alt="nizamuddins" /></a> </p>
