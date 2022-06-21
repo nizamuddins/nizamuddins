@@ -2,10 +2,10 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nizamuddins" alt="nizamuddins" /></a> </p>
-
+<a href="https://app.daily.dev/nizamuddin"><img align="right" src="https://api.daily.dev/devcards/250845c0db9f4462bd941f1a0b4e713d.png?r=auo" width="400" alt="Mohd Nizam Uddin's Dev Card"/></a>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
-<a href="https://app.daily.dev/nizamuddin"><img align="right" src="https://api.daily.dev/devcards/250845c0db9f4462bd941f1a0b4e713d.png?r=auo" width="400" alt="Mohd Nizam Uddin's Dev Card"/></a>
+
 <p align="left">
 <a href="https://linkedin.com/in/mohd-nizam-20250b202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-nizam-20250b202" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_itsnizam_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itsnizam_096" height="30" width="40" /></a>
