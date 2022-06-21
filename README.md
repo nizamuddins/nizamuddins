@@ -16,7 +16,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nizamuddins&show_icons=true&locale=en&layout=compact" alt="nizamuddins" /></p>
+<a href="https://app.daily.dev/nizamuddin"><img src="https://api.daily.dev/devcards/250845c0db9f4462bd941f1a0b4e713d.png?r=auo" width="400" alt="Mohd Nizam Uddin's Dev Card"/></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nizamuddins&show_icons=true&locale=en" alt="nizamuddins" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizamuddins&" alt="nizamuddins" /></p><a href="https://app.daily.dev/nizamuddin"><img src="https://api.daily.dev/devcards/250845c0db9f4462bd941f1a0b4e713d.png?r=auo" width="400" alt="Mohd Nizam Uddin's Dev Card"/></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizamuddins&" alt="nizamuddins" /></p>
