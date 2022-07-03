@@ -1,4 +1,4 @@
-[![Mohammed Nizam](https://create.vista.com/share/62c1ea7b8b0463220bee00a8)]() 
+<a href="https://create.vista.com/share/62c1ea7b8b0463220bee00a8"></a>
 <h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
