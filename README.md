@@ -1,4 +1,4 @@
-[![Mohammed Nizam](https://www.canva.com/design/DAFFYojqYDE/4ck67JZN_C14RQgZyGxrDw/view?utm_content=DAFFYojqYDE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]() 
+[![Mohammed Nizam](https://www.canva.com/design/DAFFYojqYDE/4ck67JZN_C14RQgZyGxrDw/view?utm_content=DAFFYojqYDE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)]() 
 <h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
