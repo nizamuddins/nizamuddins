@@ -1,4 +1,4 @@
-![Black Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/102944237/178022898-22d8c5a1-bbf6-4460-bfc0-30f03ea74f9e.png)
+<a href="file://wsl%24/Ubuntu/home/nizam/Projects/project7/Portfolio/index.html"  >![Black Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/102944237/178022898-22d8c5a1-bbf6-4460-bfc0-30f03ea74f9e.png)</a>
 
 
 <h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
