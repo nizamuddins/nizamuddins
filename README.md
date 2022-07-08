@@ -1,4 +1,4 @@
-[![Md Nizam](https://user-images.githubusercontent.com/102944237/178024642-57a4074f-7b34-41f6-879f-1713f9f678b9.png)](file://wsl%24/Ubuntu/home/nizam/Projects/project7/Portfolio/index.html)
+[![Md Nizam](https://user-images.githubusercontent.com/102944237/178024642-57a4074f-7b34-41f6-879f-1713f9f678b9.png)](https://nizamuddins.github.io/Portfolio-Project/)
 
 <h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
 <h3 align="center">A passionate web developer from India</h3>
