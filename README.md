@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left">I am [Md Nizam Uddin](file://wsl%24/Ubuntu/home/nizam/Projects/project7/Portfolio/index.html) a student with an undergraduate in Computer Science from Lords Institute of Engineering and Technology, Hyderabad.</p>
+<p align="left">I am Md Nizam Uddin a student with an undergraduate in Computer Science from Lords Institute of Engineering and Technology, Hyderabad.
+I'm designer and developer with a passion for web design.My background as a Web Developer, along with my education in Computer Science, have allowed me to attain a strong foundation of technical skills. In addition to my Web Development skills, I also possess a great eye for design, and this is what I believe separates me from the rest of the competition.</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
