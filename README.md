@@ -1,4 +1,5 @@
-![nizam](https://user-images.githubusercontent.com/102944237/178021005-ed31ec2c-8d22-49c8-aff5-070b37dd6884.jpg)
+![Black Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/102944237/178022898-22d8c5a1-bbf6-4460-bfc0-30f03ea74f9e.png)
+
 
 <h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
 <h3 align="center">A passionate web developer from India</h3>
