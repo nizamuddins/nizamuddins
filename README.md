@@ -1,9 +1,9 @@
 [![Md Nizam](https://user-images.githubusercontent.com/102944237/178024642-57a4074f-7b34-41f6-879f-1713f9f678b9.png)](https://nizamuddins.github.io/Portfolio-Project/)
 
-<h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
+[<h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>](https://nizamuddins.github.io/Portfolio-Project/)
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left">I am Md Nizam Uddin a student with an undergraduate in Computer Science from Lords Institute of Engineering and Technology, Hyderabad.
+<p align="left">I am [Md Nizam Uddin](https://nizamuddins.github.io/Portfolio-Project/) a student with an undergraduate in Computer Science from [Lords Institute of Engineering and Technology](https://www.lords.ac.in/), Hyderabad.
 I'm designer and developer with a passion for web design.My background as a Web Developer, along with my education in Computer Science, have allowed me to attain a strong foundation of technical skills. In addition to my Web Development skills, I also possess a great eye for design, and this is what I believe separates me from the rest of the competition.</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
