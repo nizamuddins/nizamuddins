@@ -1,10 +1,10 @@
-![Black Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/102944237/178024642-57a4074f-7b34-41f6-879f-1713f9f678b9.png)
+[![Black Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/102944237/178024642-57a4074f-7b34-41f6-879f-1713f9f678b9.png)](file://wsl%24/Ubuntu/home/nizam/Projects/project7/Portfolio/index.html)
 
 
 <h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-​<p align="left">I am Md Nizam Uddin a student with an undergraduate in Computer Science from Lords Institute of Engineering and Technology, Hyderabad.</p>
+<p align="left">I am Md Nizam Uddin a student with an undergraduate in Computer Science from Lords Institute of Engineering and Technology, Hyderabad.</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
