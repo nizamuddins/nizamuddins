@@ -1,4 +1,4 @@
-![nizam45](https://user-images.githubusercontent.com/102944237/178019877-8fb67b46-813f-4c62-b7ef-88c49b7fadf1.jpg)
+![nizam](https://user-images.githubusercontent.com/102944237/178020591-5698b0f2-f7bb-4932-beee-969fbfe3e585.jpg)
 <h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
