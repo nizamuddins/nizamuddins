@@ -1,4 +1,4 @@
-
+<img src=""C:\Users\MOHAMMED NIZAM UDDIN\OneDrive\Pictures\nizam45.jpg""alt="">
 <h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
