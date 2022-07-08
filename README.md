@@ -1,4 +1,4 @@
-<img src="C:\Users\MOHAMMED NIZAM UDDIN\OneDrive\Pictures\nizam45.jpg"alt="">
+![nizam45](https://user-images.githubusercontent.com/102944237/178019877-8fb67b46-813f-4c62-b7ef-88c49b7fadf1.jpg)
 <h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
