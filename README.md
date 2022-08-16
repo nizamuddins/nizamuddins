@@ -15,12 +15,6 @@ I'm designer and developer with a passion for web design.My background as a Web 
 </ul>
 <hr />
 
- <h2 align="left"> 🟢 Visitor Count ++</h2>
-  
-  <img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
-</p>
-<hr />
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
