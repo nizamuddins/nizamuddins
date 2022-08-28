@@ -4,7 +4,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-<p align="left">I am <a href="https://nizamuddins.github.io/Portfolio-Project"> Md Nizam Uddin</a> a student with an undergraduate in <strong>Computer Science</strong> from <strong>Lords Institute of Engineering and Technology</strong>Hyderabad
+<p align="left">I am <a href="https://nizamuddins.github.io/Portfolio-Project"> Md Nizam Uddin</a> a student with an undergraduate in <strong>Computer Science</strong> from <strong>Lords Institute of Engineering and Technology</strong> Hyderabad
 I'm designer and developer with a passion for web design.My background as a Web Developer, along with my education in Computer Science, have allowed me to attain a strong foundation of technical skills. In addition to my Web Development skills, I also possess a great eye for design, and this is what I believe separates me from the rest of the competition.</p>
 <a align='left' href="https://app.daily.dev/nizamuddin"><img src="https://api.daily.dev/devcards/250845c0db9f4462bd941f1a0b4e713d.png?r=6xn" width="400" alt="Mohd Nizam Uddin's Dev Card"/></a>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
