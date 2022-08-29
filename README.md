@@ -9,7 +9,7 @@ I'm designer and developer with a passion for web design.My background as a Web 
 <a align='left' href="https://app.daily.dev/nizamuddin"><img src="https://api.daily.dev/devcards/250845c0db9f4462bd941f1a0b4e713d.png?r=6xn" width="400" alt="Mohd Nizam Uddin's Dev Card"/></a>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <hr />
-<h2 align="left"> <img src="https://i.imgur.com/7kJWL1n.png" alt="Mongodb Logo - Mongodb Logo Transparent@seekpng.com" width="30px" height="60px">&nbsp;MongoDB Certifications Paper's</h2>
+<h2 align="left"> <img src="https://i.imgur.com/7kJWL1n.png" alt="Mongodb Logo - Mongodb Logo Transparent@seekpng.com" width="30px" height="60px">&nbsp;MongoDB Certification Paper's</h2>
 <ul>
 <li> <a href="https://university.mongodb.com/course_completion/ed78a597-5285-4aa6-a3c7-f1b95283e64b?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing"alt="<b>M001:MongoDB Basics</b>"> <b>M001:MongoDB Basics</b> </a>  
 <li> <a href="https://university.mongodb.com/course_completion/80dd3907-1fe7-442e-a3aa-9f4c8e828c28?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing"alt="<b>M001:MongoDB Basics</b>"> <b>M220JS:MongoDB for JavaScript Developers</b> </a>  
