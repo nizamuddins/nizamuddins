@@ -2,8 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-<p align="left">I am <a href="https://nizamuddins.github.io/Portfolio-Project"> Md Nizam Uddin</a>. I have graduated with a degree B.E. in <strong>Computer Science</strong> from <strong>Lords Institute of Engineering and Technology</strong> Hyderabad
-I'm designer and developer with a passion for web design.My background as a Web Developer, along with my education in Computer Science, have allowed me to attain a strong foundation of technical skills. In addition to my Web Development skills, I also possess a great eye for design, and this is what I believe separates me from the rest of the competition.</p>
+<p align="left">I am Md Nizam Uddin</a>. IT professional with an MS in Computer Information Technology (Elmhurst University, May 2026) and hands-on experience in application support, cloud deployment, and troubleshooting. Currently a PMS Support Specialist at Holiday Inn (IHG). Built and deployed a multi-VM ticketing system with Flask, Docker, and MySQL on Microsoft Azure, and delivered a live e-commerce site during an internship at Rejolt Edtech. Seeking an IT support, systems, or cloud-focused role.</p>
 <a align='left' href="https://app.daily.dev/nizamuddin"><img src="https://api.daily.dev/devcards/250845c0db9f4462bd941f1a0b4e713d.png?r=6xn" width="400" alt="Mohd Nizam Uddin's Dev Card"/></a>
 <hr />
 <h2 align="left"> <img src="https://i.imgur.com/7kJWL1n.png" alt="Mongodb Logo - Mongodb Logo Transparent@seekpng.com" width="30px" height="60px">&nbsp;MongoDB Certification Paper's</h2>
