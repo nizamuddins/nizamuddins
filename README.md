@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohd Nizam Uddin</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center"><IT professional/h3>
 
 
-<p align="left">I am Md Nizam Uddin</a>. IT professional with an MS in Computer Information Technology (Elmhurst University, May 2026) and hands-on experience in application support, cloud deployment, and troubleshooting. Currently a PMS Support Specialist at Holiday Inn (IHG). Built and deployed a multi-VM ticketing system with Flask, Docker, and MySQL on Microsoft Azure, and delivered a live e-commerce site during an internship at Rejolt Edtech. Seeking an IT support, systems, or cloud-focused role.</p>
+<p align="left">IT professional with an MS in Computer Information Technology and hands-on experience in PMS and application support, incident troubleshooting, system monitoring, and Azure cloud deployment. Built and deployed a multi-VM ticketing system on Microsoft Azure with Docker, Flask, and MySQL. Seeking an IT support, systems, or cloud-focused role.</p>
 <a align='left' href="https://app.daily.dev/nizamuddin"><img src="https://api.daily.dev/devcards/250845c0db9f4462bd941f1a0b4e713d.png?r=6xn" width="400" alt="Mohd Nizam Uddin's Dev Card"/></a>
 <hr />
 <h2 align="left"> <img src="https://i.imgur.com/7kJWL1n.png" alt="Mongodb Logo - Mongodb Logo Transparent@seekpng.com" width="30px" height="60px">&nbsp;MongoDB Certification Paper's</h2>
